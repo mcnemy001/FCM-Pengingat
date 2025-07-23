@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949944266841",
+    "project_id": "aplikasi-info-pengingat",
+    "storage_bucket": "aplikasi-info-pengingat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949944266841:android:a06276ff1f785bcc9b8148",
+        "android_client_info": {
+          "package_name": "com.azysmn.infopengingat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cujb_FEysmEWlTBUSU_ijSfiRUN0XB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
